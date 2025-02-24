@@ -1,9 +1,5 @@
 # Authored by: Ryan Johnson 
-# With help from: Nick DiMartinis
-
-# ADDED: New GUI; All 3 modes work as intended + check for if excel is open now works with GUI
-
-# TODO: Improve way that output is written (make it update line by line rather than waiting for the full result) (perhaps find a way to make it a seperate process from the GUI so it doesn't lag)
+# Special thanks to Nick DiMartinis for his valuable ideas on my script and for being a helpful mentor!
 
 #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
